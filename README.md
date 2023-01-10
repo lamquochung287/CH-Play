@@ -1,5 +1,5 @@
 # CH-Play
 This is final project of web development
 # Team member
-Trương Trung Hiếu - 519H0164: code tempalte using html css js
+Trương Trung Hiếu - 519H0164: code tempalte using html css js \n
 Lâm Quốc Hưng - 519H0291: using php for function backend
